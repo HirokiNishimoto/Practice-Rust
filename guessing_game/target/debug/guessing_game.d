@@ -1,1 +1,1 @@
-/Users/hirokinishimoto/Desktop/PracticeRust/guessing_game/target/debug/guessing_game.dSYM: /Users/hirokinishimoto/Desktop/PracticeRust/guessing_game/src/main.rs
+/Users/nishimotoyouki/Desktop/practice_rust/guessing_game/target/debug/guessing_game: /Users/nishimotoyouki/Desktop/practice_rust/guessing_game/src/main.rs
